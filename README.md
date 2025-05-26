@@ -21,19 +21,6 @@ This project demonstrates a complete real-time analytics solution that processes
 
 ## 🏗️ Architecture
 
-graph LR
-    A[Web Traffic] --> B[Event Generator]
-    B --> C[Raw Events Topic]
-    C --> D[Page View Processor]
-    C --> E[User Activity Aggregator]
-    D --> F[Page Views Topic]
-    E --> G[User Activity Topic]
-    F --> H[Database Consumer]
-    G --> H
-    H --> I[PostgreSQL]
-    I --> J[Analytics Dashboard]
-```
-
 E-commerce Events → Event Generator → Kafka Topics → Stream Processors → PostgreSQL → Analytics Dashboard
 ```
 

@@ -30,3 +30,4 @@ logs/
 # Database
 *.db
 *.sqlite3
+kafka/logs/
