@@ -1,6 +1,6 @@
-# Real-time Web Analytics Processing with Kafka
+# Real-time E-commerce Analytics Processing with Kafka
 
-This project demonstrates a real-time web analytics processing pipeline using Kafka and PostgreSQL.
+This project demonstrates a real-time E-commerce analytics processing pipeline using Kafka and PostgreSQL.
 
 ## Components
 
