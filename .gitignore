@@ -1,7 +1,32 @@
+# Kafka Distribution Files
 kafka_2.13-3.9.0.tgz
 kafka_2.13-3.9.0/
-kafka/libs/
+kafka/
+
+# Python
 venv/
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.Python
+env/
 .env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite3
