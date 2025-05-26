@@ -1,0 +1,7 @@
+kafka_2.13-3.9.0.tgz
+kafka_2.13-3.9.0/
+kafka/libs/
+venv/
+__pycache__/
+*.pyc
+.env
