@@ -1,3 +1,9 @@
-kafka-python==2.0.2
-psycopg2-binary==2.9.9
-ipaddress==1.0.23
+kafka-python>=2.0.0
+psycopg2-binary>=2.9.0
+confluent-kafka>=2.0.0
+flask>=2.3.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+fastapi>=0.100.0
+uvicorn>=0.20.0
+prometheus-client>=0.17.0
