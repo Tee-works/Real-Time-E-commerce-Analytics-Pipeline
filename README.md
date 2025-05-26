@@ -20,7 +20,7 @@ This project demonstrates a complete real-time analytics solution that processes
 - **Business Impact**: Proven to improve conversion rates by 23%
 
 ## 🏗️ Architecture
-
+```
 E-commerce Events → Event Generator → Kafka Topics → Stream Processors → PostgreSQL → Analytics Dashboard
 ```
 

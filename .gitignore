@@ -31,3 +31,4 @@ logs/
 *.db
 *.sqlite3
 kafka/logs/
+kafka/logs/
